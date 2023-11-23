@@ -1,0 +1,30 @@
+.container {
+    margin-top: 2rem;
+
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.beerCard {
+    text-align: left; /* Lägg till detta för att justera texten till vänster inom kortet */
+}
+
+ img {
+    margin-top: 2rem;
+    max-width: 80%;
+    height: 25rem;
+}
+
+.beerCard button {
+border: none;
+border-radius: 5px;
+}
+
+.form {
+   
+}
